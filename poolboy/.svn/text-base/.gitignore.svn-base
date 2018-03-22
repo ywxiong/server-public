@@ -1,7 +1,0 @@
-/rebar.lock
-/poolboy.iml
-/.idea
-.eunit
-.rebar
-_build
-ebin
