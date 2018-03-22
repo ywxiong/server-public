@@ -1,0 +1,10 @@
+{application,shell_console,
+             [{description,"An OTP library"},
+              {vsn,"0.1.0"},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {env,[]},
+              {modules,[shell_console]},
+              {maintainers,[]},
+              {licenses,[]},
+              {links,[]}]}.
